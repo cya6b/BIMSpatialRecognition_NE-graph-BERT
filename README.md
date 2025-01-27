@@ -68,7 +68,18 @@ Run the command "python script_4_evaluation_plots.py" for plots drawing and resu
 # demo
 * The demo link is located at the top right corner of the interface.
 
-Users simply need to enter the name of the desired functional space name in the search box, such as bedroom, bathroom or living room, and the demo will automatically identify the corresponding functional space in the model and highlight it.
+Users simply need to enter the name of the desired functional space name in the search box, such as:
+
+    bedroom
+or    
+
+    bathroom
+    
+or    
+
+    living room 
+
+the demo will automatically identify the corresponding functional space in the model and highlight it.
 
 
 # Citation

@@ -65,6 +65,11 @@ Run the command "python script_4_evaluation_plots.py" for plots drawing and resu
 
     python script_4_evaluation_plots.py
 
+# demo
+* The demo link is located at the top right corner of the interface.
+
+
+
 # Citation
     @onproceeding{
 	    author={Chen, Y. and Jiang, H.},

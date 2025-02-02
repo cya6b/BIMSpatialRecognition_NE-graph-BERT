@@ -24,7 +24,7 @@ https://github.com/user-attachments/assets/44a97946-9f7e-423f-a4c3-c7b832fa11fc
     
     ├── result             // Contains subgraph batch results, WLE results, Hop embedding results, and pre-trained models.
 
-    ├── script_1_preprocess.py             // Compute node WL code, intimacy based subgraph batch, node hop distance.
+    ├── script_1_preprocess.py             // Compute node WLE code, intimacy based subgraph batch, node hop distance.
 
     ├── script_2_pre_train.py             // For pre-training the NE-Graph-BERT.
 

@@ -1,5 +1,5 @@
 # BIMSpatialRecognition_NE-graph-BERT
-* Code and instructions for our paper: SCIE Journal Under Review (2025-January)
+* Code and instructions for our paper: SCIE Journal Accept (2025-February)
 # Introduction
 The Spacegraph dataset was created using 307 two-dimensional (2D) floor plans representing three building types: schools, apartments, and office buildings. We gathered the 2D floor plan images through the Google search engine. A custom tagging system was developed to semantically annotate the functional spaces and their relationships directly on the 2D floor plan images. Subsequently, we developed the NE-Graph-BERT model, which leverages edge features to enhance node features and can be employed to automatically identify different types of functional spaces.
 
@@ -83,10 +83,10 @@ the demo will automatically identify the corresponding functional space in the m
 
 
 # Citation
-    @onproceeding{
+    @online{
 	    author={Chen, Y. and Jiang, H.},
-	    doi={},
-	    journal={},
+	    doi={https://doi.org/10.1016/j.engappai.2025.110365},
+	    journal={Engineering Applications of Artificial Intelligence},
 	    year={2025},
     }
 

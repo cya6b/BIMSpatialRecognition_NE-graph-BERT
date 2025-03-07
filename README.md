@@ -83,7 +83,7 @@ the demo will automatically identify the corresponding functional space in the m
 
 
 # Citation
-    @online{
+    @inproceedings{
 	    author={Chen, Y. and Jiang, H.},
 	    doi={https://doi.org/10.1016/j.engappai.2025.110365},
 	    journal={Engineering Applications of Artificial Intelligence},
